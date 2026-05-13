@@ -1,10 +1,9 @@
 # AppMiBanco - CAJA PIURA
 ## Arquitectura MVVM en Android con Kotlin, Jetpack Compose y Supabase
 
-**Repositorio:** [github.com/u2008113935/devappmov_appbanco_s8](https://github.com/u2008113935/devappmov_appbanco_s8)  
+**Repositorio:** https://github.com/74902142-star/AppBanco_Jhon.git 
 **Curso:** Desarrollo de Aplicaciones Móviles  
 **Stack:** Kotlin · Jetpack Compose · MVVM · Retrofit · Supabase · PostgreSQL  
-**Package base:** `com.example.appbanco_s8`
 
 ---
 
