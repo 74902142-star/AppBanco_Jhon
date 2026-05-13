@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MiBanco" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">#F5F7FA</item>
+    </style>
+
+    <style name="Theme.MiBanco.Splash" parent="Theme.SplashScreen">
+        <!-- Fondo azul exacto de la Imagen 1 -->
+        <item name="windowSplashScreenBackground">#005B96</item>
+        <!-- Logo horizontal blanco centrado como en la Imagen 1 -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_cajapiura</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.MiBanco</item>
+    </style>
+</resources>

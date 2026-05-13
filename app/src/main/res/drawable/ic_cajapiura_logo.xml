@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- P Azul (Fondo/Izquierda) -->
+    <path
+        android:fillColor="#005B96"
+        android:pathData="M20,20 H55 C68,20 70,30 70,40 V45 C70,55 68,65 55,65 H35 V80 H20 Z M35,33 V52 H55 C58,52 58,33 55,33 Z" />
+    <!-- P Dorada (Frente/Derecha) entrelazada -->
+    <path
+        android:fillColor="#F5A623"
+        android:pathData="M45,20 H80 C93,20 95,30 95,40 V50 C95,60 93,72 80,72 H60 V80 H45 Z M60,33 V59 H80 C83,59 83,33 80,33 Z" />
+</vector>

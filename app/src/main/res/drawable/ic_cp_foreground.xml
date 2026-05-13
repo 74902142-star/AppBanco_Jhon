@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stylized 'P' shapes for Caja Piura logo -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,30 L60,30 C75,30 78,38 78,48 L78,55 C78,65 75,73 60,73 L45,73 L45,88 L30,88 Z M45,43 L45,60 L60,60 C65,60 65,43 60,43 Z" />
+    <path
+        android:fillColor="#F5A623"
+        android:pathData="M50,30 L75,30 C85,30 88,38 88,48 L88,58 C88,68 85,75 75,75 L65,75 L65,88 L50,88 Z M65,43 L65,62 L75,62 C78,62 78,43 75,43 Z" />
+</vector>

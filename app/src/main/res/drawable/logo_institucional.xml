@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Círculo blanco de fondo para asegurar visibilidad -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,50m-45,0a45,45 0,1 1,90 0a45,45 0,1 1,-90 0" />
+
+    <!-- Letra P estilizada (Azul) -->
+    <path
+        android:fillColor="#005B96"
+        android:pathData="M30,30 H55 C65,30 65,45 55,45 H42 V70 H30 Z M42,38 V40 H52 C54,40 54,38 52,38 Z" />
+
+    <!-- Letra P estilizada (Dorada) entrelazada -->
+    <path
+        android:fillColor="#F5A623"
+        android:pathData="M45,30 H70 C80,30 80,45 70,45 H57 V70 H45 Z M57,38 V40 H67 C69,40 69,38 67,38 Z" />
+
+</vector>
